@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BossLadyZ
 - 👀 I’m interested in building responsive Web solutions with JavaScript(JS), ReactJS, Laravel8, Material-Ui
 - 🌱 I’m currently learning web designs with CSS-GRID, Flexbox, SCSS
-- 💞️ I’m looking to collaborate on interesting FrontEnd Web development project.
+- 💞️ I’m looking to collaborate on interesting FrontEnd Web development projects, particularly ones in agriculture.
 - 📫 Reach me on busariazeezat@gmail.com | twitter: @azeezatu_
 
 <!---
