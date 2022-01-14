@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
 ![CSS](https://img.shields.io/badge/-CSS-239120?&logo=css3&logoColor=white)
-### Other Languages & Technologies I am getting better at
+### 🎗Other Languages & Technologies I am getting better at
 ![Nodejs](https://img.shields.io/badge/-NodeJS-fff?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel)
 ![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=FF1493)
