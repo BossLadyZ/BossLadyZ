@@ -1,4 +1,4 @@
-###- 👋 Hi, I’m Azeezat Busari, a FrontEnd Developer
+-### 👋 Hi, I’m Azeezat Busari, a FrontEnd Developer
 - 👀 I’m interested in building responsive Web solutions with JavaScript(JS), ReactJS, Laravel8, Material-Ui
 - ### 🌱 Stuff I work with
 
