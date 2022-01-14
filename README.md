@@ -1,9 +1,7 @@
 ###- 👋 Hi, I’m Azeezat Busari, a FrontEnd Developer
-
 - 👀 I’m interested in building responsive Web solutions with JavaScript(JS), ReactJS, Laravel8, Material-Ui
-- 
 - ### 🌱 Stuff I work with
-- 
+
 - [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
  [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=0000FF)]()
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
