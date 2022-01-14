@@ -1,17 +1,17 @@
-- ### 👋 Hi, I’m Azeezat Busari, a FrontEnd Developer
-- 👀 I’m interested in building responsive Web solutions with JavaScript(JS), ReactJS, Laravel8, Material-Ui
-- ### 🌱 Stuff I work with
-
-- [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
- [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=0000FF)]()
+### 👋 Hi, I’m Azeezat Busari, a FrontEnd Developer
+  👀 I’m interested in building responsive Web solutions with JavaScript(JS), ReactJS, Laravel8, Material-Ui
+### 🌱 Stuff I work with
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
+![CSS](https://img.shields.io/badge/-CSS-239120?&logo=css3&logoColor=white)
+### Other Languages & Technologies I am getting better at
+![Nodejs](https://img.shields.io/badge/-NodeJS-fff?&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel)
 ![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=FF1493)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=0000FF)]()
+![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white)
 
-- ### Other Languages & Technologies I am getting better at
-![Nodejs](https://img.shields.io/badge/-NodeJS-fff?&logo=nodejs)
-![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 
 ### Find me elsewhere 🌎
