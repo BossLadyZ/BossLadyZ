@@ -24,6 +24,8 @@ I have since built projects that have helped me show proficiency in the aforemen
 https://github.com/BossLadyZ/CensusProject
  
 ### 🎈 Image Classification of Vehicles
+https://github.com/BossLadyZ/EmergencyVehiclesClassification
+
 
 ### 🎈 Image Classification of Tom and Jerry Images
 
