@@ -21,7 +21,8 @@
 ### SQL, Microsoft Excel, Tableau, PowerBI and R
 I have since built projects that have helped me show proficiency in the aforementioned tools are they are:
 ### 🎈 Data Exploration and Analysis of the Census of a Small Town
-
+https://github.com/BossLadyZ/CensusProject
+ 
 ### 🎈 Image Classification of Vehicles
 
 ### 🎈 Image Classification of Tom and Jerry Images
