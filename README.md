@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m Azeezat, a Data Analyst and a Software Developer
    👀 Last year, I was interested in building responsive Full stack Web applications with JavaScript(JS), ReactJS, Laravel8, Material-UI
-### 🌱And I worked with
+ 🌱And I worked with
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
 ![CSS](https://img.shields.io/badge/-CSS-239120?&logo=css3&logoColor=white)
-### 🌱At an amazing financial inclusion tech company in Nigeria. There I started to get better at:
-### 🎗Other Languages & Technologies like
+#### 🌱At an amazing financial inclusion tech company in Nigeria. There I started to get better at:
+#### 🎗Other Languages & Technologies like
 ![Nodejs](https://img.shields.io/badge/-NodeJS-fff?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel)
 ![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=FF1493)
@@ -15,8 +15,16 @@
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 
-### This year, I am switching to Data Analysis, Data Science and AI. I now work with 
-[![Python] https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
+## I switched to Data Analysis, Data Science and AI this year. I now work with 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### And its libraries like Pandas, Numpy, Sci-kit learn, Seaborn, MatplotLib, and Keras,
+### SQL, Microsoft Excel, Tableau, PowerBI and R
+I have since built projects that have helped me show proficiency in the aforementioned tools are they are:
+### 🎈 Data Exploration and Analysis of the Census of a Small Town
+
+### 🎈 Image Classification of Vehicles
+
+### 🎈 Image Classification of Tom and Jerry Images
 
 
 ### Find me elsewhere 🌎
