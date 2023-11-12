@@ -5,10 +5,10 @@ I am a junior Data Analyst with a passion for data and problem-solving. Eager to
 to contribute valuable insights for informed decision-making.
 
 ## Python Projects include:
-# 🎈 Data Exploration and Analysis of the Census of a Small Town
+##### 🎈 Data Exploration and Analysis of the Census of a Small Town
 https://github.com/BossLadyZ/CensusProject
  
-#🎈 Image Classification of Vehicles
+##### 🎈 Image Classification of Vehicles
 https://github.com/BossLadyZ/EmergencyVehiclesClassification
 
 ## Tableau Projects include:
