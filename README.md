@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Azeezat, a Data Analyst and a Software Developer
+## 👋 Hi, I’m Azeezat, a Data Analyst 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 I am an entry-level Data Analyst with a passion for data and problem-solving. Eager to apply my academic foundations and hands-on experience in 
-## Python, ## SQL, Tableau and Excel 
+## Python, SQL, Tableau and Excel 
 to contribute valuable insights for informed decision-making.
 
 ## Python Projects include:
