@@ -1,41 +1,30 @@
 ## 👋 Hi, I’m Azeezat, a Data Analyst and a Software Developer
-   👀 Last year, I was interested in building responsive Full stack Web applications with JavaScript(JS), ReactJS, Laravel8, Material-UI
- 🌱And I worked with
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
-![CSS](https://img.shields.io/badge/-CSS-239120?&logo=css3&logoColor=white)
-#### 🌱At an amazing financial inclusion tech company in Nigeria. There I started to get better at:
-#### 🎗Other Languages & Technologies like
-![Nodejs](https://img.shields.io/badge/-NodeJS-fff?&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel)
-![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=FF1493)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=0000FF)]()
-![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white)
-
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
+I am an entry-level Data Analyst with a passion for data and problem-solving. Eager to apply my academic foundations and hands-on experience in 
+## Python, ## SQL, Tableau and Excel 
+to contribute valuable insights for informed decision-making.
 
-## I switched to Data Analysis, Data Science and AI this year. I now work with 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-#### And its libraries like Pandas, Numpy, Sci-kit learn, Seaborn, MatplotLib, and Keras,
-### SQL, Microsoft Excel, Tableau, PowerBI and R
-I have since built projects that have helped me show proficiency in the aforementioned tools are they are:
+## Python Projects include:
 ### 🎈 Data Exploration and Analysis of the Census of a Small Town
 https://github.com/BossLadyZ/CensusProject
  
 ### 🎈 Image Classification of Vehicles
 https://github.com/BossLadyZ/EmergencyVehiclesClassification
 
+## Tableau Projects include:
 
-### 🎈 Image Classification of Tom and Jerry Images
+## SQL Projects include:
 
+## Excel Projects Include:
 
-### Find me elsewhere 🌎
+### Find me on LinkedIn 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambayo/)](https://www.linkedin.com/in/azeezat-busari/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/Azeezatu_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambayo/)](https://www.linkedin.com/in/azeezat-busari/)
 
 <!-- - 💞️ I’m looking to collaborate on interesting FrontEnd Web development projects, particularly ones in agriculture.
-- 📫 Reach me on busariazeezat@gmail.com | twitter: @azeezatu_ -->
+- 📫 Reach me on busariazeezat@gmail.com | twitter: @azeezatu_ 
+
+-->
 
 <!---
 BossLadyZ/BossLadyZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
