@@ -12,7 +12,8 @@ https://github.com/BossLadyZ/CensusProject
 https://github.com/BossLadyZ/EmergencyVehiclesClassification
 
 ## Tableau Projects include:
-
+##### 🎈  Tata Virtual Internship Data Visualisation Project 
+     - https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 ## SQL Projects include:
 
 ## Excel Projects Include:
