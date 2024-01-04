@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Azeezat, a Data Analyst 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
-I am a Junior Data Analyst with a passion for data and problem-solving. Eager to apply my academic foundations and hands-on experience in 
+I am a Junior Data Analyst with a passion for data and problem-solving. I am eager to apply my academic foundations and hands-on experience in 
 ## Python, SQL, Tableau and Excel 
 to contribute valuable insights for informed decision-making.
 
@@ -14,9 +14,24 @@ https://github.com/BossLadyZ/EmergencyVehiclesClassification
 ## Tableau Projects include:
 ##### 🎈  Tata Virtual Internship Data Visualisation Project 
      - https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-## SQL Projects include:
+<!--- ## SQL Projects include:--->
 
-## Excel Projects Include:
+## Job Simulation Projects
+  #### Accenture North America's Data Analytics and Visualization on Forage.com 
+  In the simulation, I: 
+   Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+   Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+   Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+   
+Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
+
+#### Tata's Data Visualisation: Empowering Business with Effective Insights on Forage.com
+In the simulation, I:
+   Completed a simulation involving creating data visualizations for Tata Consultancy Services
+   Prepared questions for a meeting with client senior leadership
+   Created visuals for data analysis to help executives with effective decision-making
+ 
+Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
 
 ### Find me on LinkedIn 🌎
 
