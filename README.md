@@ -19,17 +19,17 @@ https://github.com/BossLadyZ/EmergencyVehiclesClassification
 ## Job Simulation Projects
   #### Accenture North America's Data Analytics and Visualization on Forage.com 
   In the simulation, I: 
-   Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
-   Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
-   Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+   - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+   - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+   - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
    
 Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 
 #### Tata's Data Visualisation: Empowering Business with Effective Insights on Forage.com
 In the simulation, I:
-   Completed a simulation involving creating data visualizations for Tata Consultancy Services
-   Prepared questions for a meeting with client senior leadership
-   Created visuals for data analysis to help executives with effective decision-making
+   - Completed a simulation involving creating data visualizations for Tata Consultancy Services
+   - Prepared questions for a meeting with client senior leadership
+   - Created visuals for data analysis to help executives with effective decision-making
  
 Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
 
