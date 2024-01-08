@@ -8,7 +8,13 @@ I am a Junior Data Analyst with a passion for data and problem-solving. I am eag
 to contribute valuable insights for informed decision-making.
 
 ## Portfolio:
-##### 🎈 Data Exploration and Analysis of the Census of a Small Town
+##### 🎈 Inventory Analysis
+[https://github.com/BossLadyZ/CensusProject](https://github.com/BossLadyZ/Inventory-Data-Analysis)
+
+##### 🎈 Uber Data Analysis
+[https://github.com/BossLadyZ/CensusProject](https://github.com/BossLadyZ/UberDataAnalysis)
+
+##### 🎈 Data Exploration and Analysis of the Population Census of a Small Town
 https://github.com/BossLadyZ/CensusProject
  
 ##### 🎈 Image Classification of Vehicles
