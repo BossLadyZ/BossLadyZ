@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Azeezat, a Data Analyst 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 I am a Junior Data Analyst with a passion for data and problem-solving. I am eager to apply my academic foundations and hands-on experience in 
-##  - Python, 
-##  - SQL 
-##  - Excel
-##  - Tableau
+####  - Python, 
+####  - SQL 
+####  - Excel
+####  - Tableau
 to contribute valuable insights for informed decision-making.
 
-
+## Portfolio:
 ##### 🎈 Data Exploration and Analysis of the Census of a Small Town
 https://github.com/BossLadyZ/CensusProject
  
