@@ -1,23 +1,26 @@
 ## 👋 Hi, I’m Azeezat, a Data Analyst 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 I am a Junior Data Analyst with a passion for data and problem-solving. I am eager to apply my academic foundations and hands-on experience in 
-## Python, SQL, Tableau and Excel 
+##  - Python, 
+##  - SQL 
+##  - Excel
+##  - Tableau
 to contribute valuable insights for informed decision-making.
 
-## Python Projects include:
+
 ##### 🎈 Data Exploration and Analysis of the Census of a Small Town
 https://github.com/BossLadyZ/CensusProject
  
 ##### 🎈 Image Classification of Vehicles
 https://github.com/BossLadyZ/EmergencyVehiclesClassification
 
-## Tableau Projects include:
-##### 🎈  Tata Virtual Internship Data Visualisation Project 
+
+##### 🎈  Tata Virtual Internship Data Visualisation Project  (Tableau)
      - https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 <!--- ## SQL Projects include:--->
 
 ## Job Simulation Projects
-  #### Accenture North America's Data Analytics and Visualization on Forage.com 
+  #### Accenture North America's Data Analytics and Visualization on Forage.com (Excel) 
   In the simulation, I: 
    - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
    - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
@@ -25,7 +28,7 @@ https://github.com/BossLadyZ/EmergencyVehiclesClassification
    
 Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 
-#### Tata's Data Visualisation: Empowering Business with Effective Insights on Forage.com
+#### Tata's Data Visualisation: Empowering Business with Effective Insights on Forage.com (Tableau, Excel)
 In the simulation, I:
    - Completed a simulation involving creating data visualizations for Tata Consultancy Services
    - Prepared questions for a meeting with client senior leadership
