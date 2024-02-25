@@ -9,10 +9,10 @@ to contribute valuable insights for informed decision-making.
 
 ## Portfolio:
 ##### 🎈 Inventory Analysis
-[https://github.com/BossLadyZ/CensusProject](https://github.com/BossLadyZ/Inventory-Data-Analysis)
+[](https://github.com/BossLadyZ/Inventory-Data-Analysis)
 
 ##### 🎈 Uber Data Analysis
-[https://github.com/BossLadyZ/CensusProject](https://github.com/BossLadyZ/UberDataAnalysis)
+[](https://github.com/BossLadyZ/UberDataAnalysis)
 
 ##### 🎈 Data Exploration and Analysis of the Population Census of a Small Town
 https://github.com/BossLadyZ/CensusProject
