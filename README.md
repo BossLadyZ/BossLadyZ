@@ -8,23 +8,27 @@ I am a Junior Data Analyst with a passion for data and problem-solving. I am eag
 to contribute valuable insights for informed decision-making.
 
 ## Portfolio:
-##### 🎈 Inventory Analysis
+### Python Projects - Exploratory Data Analysis and Machine Learning
+- 1 🎈 Inventory Analysis (Data Analysis)
 https://github.com/BossLadyZ/Inventory-Data-Analysis
 
-##### 🎈 Uber Data Analysis
+- 2 🎈 Uber Data Analysis (Data Analysis)
 https://github.com/BossLadyZ/UberDataAnalysis
 
-##### 🎈 Data Exploration and Analysis of the Population Census of a Small Town
+- 3 🎈 Data Exploration and Analysis of the Population Census of a Small Town to make developmental decisions in the town (Data Analysis)
 https://github.com/BossLadyZ/CensusProject
  
-##### 🎈 Image Classification of Vehicles
+- 4 🎈 Image Classification of Vehicles (Data Science and Machine Learning)
 https://github.com/BossLadyZ/EmergencyVehiclesClassification
 
-
-##### 🎈  Tata Virtual Internship Data Visualisation Project  (Tableau)
+### Data Visualisations (Power BI & Tableau)
+##### 🎈  Online Retail Data Visualisation Project  (Tableau)
      - https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 <!--- ## SQL Projects include:--->
 
+### Excel
+##### 🎈  Social Media Trends Data Analysis Project 
+     - https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 ## Job Simulation Projects
   #### 1) Accenture North America's Data Analytics and Visualization on Forage.com (Excel) 
   In the simulation, I: 
