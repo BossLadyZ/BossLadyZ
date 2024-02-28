@@ -14,7 +14,7 @@ to contribute valuable insights for informed decision-making.
 https://github.com/BossLadyZ/HR-SQL-Project
 
 - ##### 🎈  Online Retail Data Visualisation Project  (Tableau)
-     - https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+  https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 <!--- ## SQL Projects include:--->
 
 ### Excel
