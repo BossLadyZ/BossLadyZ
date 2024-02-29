@@ -19,7 +19,7 @@ https://github.com/BossLadyZ/HR-SQL-Project
 
 ### Excel
 - ##### 🎈  Social Media Trends Data Analysis Project 
-   [- https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://github.com/BossLadyZ/Social-Media-Startup-Analysis-Excel)
+   https://github.com/BossLadyZ/Social-Media-Startup-Analysis-Excel
 ### SQL 
 - ##### 🎈Human Resources Dataset Cleaning and Analysis
   https://github.com/BossLadyZ/HR-SQL-Project
