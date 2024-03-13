@@ -1,17 +1,17 @@
-## 👋 Hi, I’m Azeezat, a Data Analyst [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambayo/)](https://www.linkedin.com/in/azeezat-busari/)
+## 👋 Hi, I’m Azeezat, a Junior Data Analyst
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
-I am a Junior Data Analyst with a passion for data and problem-solving. I am eager to apply my academic foundations and hands-on experience in 
+Working passionately and tirelessly to make Data make sense for you with: 
 ####  - Python, 
 ####  - SQL 
 ####  - Excel
 ####  - Tableau
-to contribute valuable insights for informed decision-making.
+ 🌎 Find me on    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambayo/)](https://www.linkedin.com/in/azeezat-busari/)
 
 # Portfolio of Data Projects:
 
 ### Data Visualisations (Power BI & Tableau)
-- ##### 🎈  HR Employee Distribution Dashboard (Power BI)
-https://github.com/BossLadyZ/HR-SQL-Project
+- ##### 🎈  Call Centre Trends Dashboard (Power BI)
+  https://github.com/BossLadyZ/CallCenterDashboard
 
 - ##### 🎈  Online Retail Data Visualisation Project  (Tableau)
   https://public.tableau.com/views/TataVirtualInternshipDataVisualisationProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
@@ -55,7 +55,6 @@ In the simulation, I:
  
 Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
 
-### Find me on LinkedIn 🌎
 
 
 
