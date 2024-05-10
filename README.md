@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Azeezat, a Junior Data Analyst
+## 👋 Hi, I’m Azeezat, a Data Analyst
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 Working passionately and tirelessly to make Data make sense for you with: 
 ####  - Python, 
